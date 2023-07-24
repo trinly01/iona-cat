@@ -1,6 +1,6 @@
 # Demo: [https://iona-cat.vercel.app/](https://iona-cat.vercel.app/)
 
-Personal Touches:
+Creative Touches:
 1. Used tailwind css instead of bootstrap to enhance the UI
 2. Pinia State Management
 3. some Typing using Typescript

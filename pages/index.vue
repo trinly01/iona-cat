@@ -1,6 +1,5 @@
 <template>
     <div class="p-8 bg-gradient-to-r from-pink-300 to-blue-200 min-h-screen flex flex-col justify-center items-center">
-      <Github-Repo />
       <Cats-Filter class="p-4" />
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-7xl mx-auto px-4">
         <div v-for="image in catImages" :key="image.id" class="rounded-lg shadow-md overflow-hidden transform transition-transform hover:scale-105">

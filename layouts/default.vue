@@ -1,6 +1,6 @@
 <template>
     <div>
-        <!-- <ProductFilter /> -->
+        <Github-Repo />
         <NuxtPage />
     </div>
 </template>

@@ -36,6 +36,8 @@ export const useCatStore = defineStore('cat', {
       categoryIds = '',
       subId = ''
     ) {
+      console.log('Fetching', breedIds)
+
       try {
         const fetchedImages: CatImage[] = await $fetch('https://api.thecatapi.com/v1/images/search', {
           method: 'GET',

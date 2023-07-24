@@ -1,4 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Demo: [https://iona-cat.vercel.app/](https://iona-cat.vercel.app/)
+
+Personal Touches:
+1. Used tailwind css instead of bootstrap to enhance the UI
+2. Pinia State Management
+3. some Typing using Typescript
+4. Composition API
+5. Nuxt for server side rending intended for SEO purposes.
 
 Libraries to use
 
@@ -33,7 +40,7 @@ notifying the user that fetching has failed. Message as an alert / banner: “Ap
 we could not load new cats for you at this time! Miau!”
 5. Commit all code to a public git repository.
 
-Demo
+
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 

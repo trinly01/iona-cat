@@ -1,11 +1,12 @@
 # Demo: [https://iona-cat.vercel.app/](https://iona-cat.vercel.app/)
 
 Creative Touches:
-1. Used tailwind css instead of bootstrap to enhance the UI
-2. Pinia State Management
-3. some Typing using Typescript
-4. Composition API
-5. Nuxt for server side rending intended for SEO purposes.
+
+1. Utilized Tailwind CSS instead of Bootstrap to elevate the User Interface. 🎨
+2. Employed Pinia State Management for seamless data handling. 🔄
+3. Implemented TypeScript for stronger typing and code clarity. ✍️
+4. Leveraged the Composition API to structure the code effectively. 🧰
+5. Employed Nuxt for server-side rendering, aiming to optimize the application for SEO purposes. 🌐
 
 Libraries to use
 
